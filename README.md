@@ -6,6 +6,8 @@
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
+---
+
 An interactive command-line Number Guessing Game built with **Bash** and **PostgreSQL** as the final certification project for the **freeCodeCamp Relational Database** curriculum.
 
 ---
