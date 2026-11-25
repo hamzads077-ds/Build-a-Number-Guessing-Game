@@ -8,6 +8,9 @@ NUMBER_OF_GUESSES=0
 echo "Enter your username:"
 read USERNAME
 
+echo "Enter your password:"
+read PASSWORD
+
 USER_ID=$($PSQL "SELECT user_id FROM users WHERE username = '$USERNAME';")
 
 if [[ -z $USER_ID ]]
