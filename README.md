@@ -12,7 +12,7 @@ An interactive command-line Number Guessing Game built with **Bash** and **Postg
 
 ---
 
-## 📋 Overview
+### 📋 Overview
 
 The script generates a random secret integer between `1` and `1000`, tracks returning and first-time players in a PostgreSQL database (`number_guess`), validates integer inputs, gives higher/lower hints, and records each player's total games played and best (fewest guesses) score.
 
